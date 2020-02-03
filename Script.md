@@ -29,5 +29,5 @@ That is the end.
 
 * Young Boy: George the Boy
 * Unicorn King: Alan
-* Zookeeper: Braus
+* Zookeeper: Some guy named Braus
 * Friendly Koala: Mike
