@@ -27,7 +27,7 @@ The end.
 
 ## Cast
 
-* Young Boy: George
+* Young Boy: George the Boy
 * Unicorn King: Alan
 * Zookeeper: Braus
 * Friendly Koala: Mike
